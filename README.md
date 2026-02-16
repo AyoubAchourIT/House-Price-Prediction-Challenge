@@ -18,7 +18,8 @@ The project follows a structured experimental pipeline:
 
 ## 📊 Dataset
 
-- **Source:** MachineHack – House Price Prediction Challenge (2020)  
+- **Source:** Kaggle – House Price Prediction Challenge  
+  https://www.kaggle.com/anmolkumar/house-price-prediction-challenge
 - **Problem type:** Supervised regression  
 - **Target variable:** `PRICE_IN_LACS`  
 - **Features include:**

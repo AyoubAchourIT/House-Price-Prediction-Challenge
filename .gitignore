@@ -28,3 +28,4 @@ venv/
 
 # VS Code
 .vscode/
+catboost_info/

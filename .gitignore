@@ -1,0 +1,30 @@
+# Data
+data/
+input/
+datasets/
+*.csv
+*.parquet
+*.h5
+*.npz
+
+# Models / outputs
+models/
+outputs/
+runs/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
